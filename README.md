@@ -1,3 +1,4 @@
+
 # HTTP
 - HyperText
 - Transfer
@@ -79,6 +80,9 @@
 - Few shot: é apresentado exemplos do que se espera
 - Chain of Thought: cadeia de pensamentos para a AI responder gradativamente conforme a instrução.
 
-
 # Exercícios
 - Fazer prompt completamente organizado para o CS2
+
+# AI-Assistant
+Este projeto foi desenvolvido durante o NLW Agents da Rocketseat, uma experiência de imersão que me permitiu explorar o poder das IAs Generativas na prática.
+
